@@ -1,0 +1,8 @@
+CRUD stands for Create, Read, Update, and Delete. These are the four basic operations that can be performed on data in most database systems and applications:
+
+Create: Adding new data
+Read: Retrieving existing data
+Update: Modifying existing data
+Delete: Removing existing data
+
+These operations are fundamental to data management and are used in various contexts, from database queries to API design.
