@@ -4,9 +4,15 @@
   "dailyData": [
     {
       "date": "01.07.2024",
-      "Besucher": 2500,
-      "Besuche": 3800,
-      "Seitenabrufe": 4500
+      "Besucher": 4547,
+      "Besuche": 4659,
+      "Seitenabrufe": 22912
+    },
+    {
+      "date": "02.07.2024",
+      "Besucher": 4110,
+      "Besuche": 4696,
+      "Seitenabrufe": 21973
     }
   ]
 }
